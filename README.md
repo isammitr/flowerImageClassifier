@@ -23,3 +23,6 @@ Each step has been discussed in the `Image Classifier Project.ipynb` jupyter not
 - Inference for classification
   - Wrote a function called predict that takes an image and a model, then returns the top 5 most likely classes along with
     the probabilities.
+
+N.B.: No dataset was added because the dataset is too large and can be downloaded from 
+[this link.](https://www.cs.toronto.edu/~kriz/cifar.html)
