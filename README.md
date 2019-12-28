@@ -21,5 +21,5 @@ Each step has been discussed in the `Image Classifier Project.ipynb` jupyter not
   - Saved the model as a checkpoint (`checkpoint.pth`) so that it can be reused later.
 
 - Inference for classification
-  - Wrote a function called predict that takes an image and a model, then returns the top $K$ most likely classes along with
+  - Wrote a function called predict that takes an image and a model, then returns the top 5 most likely classes along with
     the probabilities.
